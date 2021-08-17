@@ -1,0 +1,6 @@
+06-14-2021;44.85.200.15
+9;30;00;211.211.3.123;https://www.pasaulis2.lt/
+9;36;05;222.15.123.123;https://www.automobiliai.lt/
+9;20;00;233.123.123.133;https://www.autogidas.lt/
+9;00;09;233.244.123.222;https://www.autoplius.lt/
+15;20;50;11.103.244.123;https://www.moto.lt/
