@@ -1,0 +1,26 @@
+Užduotis:
+
+IP adresai.
+
+Kataloge registruojama informacija apie WWW serverių lankymą. Atskiruose 
+failuose saugoma kiekvienos dienos informacija. Failo pirmoje eilutėje yra dienos data ir serverio IP 
+adresas (xxx.xxx.xxx.xxx). Kitose eilutėse saugoma lankymo informacija: kreipimosi laikas 
+(hh:mm:ss); kompiuterio IP adresas; puslapio, į kurį buvo kreiptasi, pavadinimas su pilnu keliu. 
+Kiekviena IP adreso xxx grupė tai sveikas skaičius, iš intervalo [0, 255]. Atskirame faile yra serverių 
+vardai: serverio IP adresas; serverio simbolinis adresas. Sudaryti programą kuri atkurtų pasirinkto (per 
+DropDownList) serverio (naudoti simbolinį vardą) svetainės struktūrą (puslapio, į kurį buvo kreiptasi, 
+pavadinimas su pilnu keliu - nesikartojant). Rikiuoti (kompiuterio IP adresas, kreipimosi laikas).
+
+Vartotojo vadovas:
+
+Atidarius programą pirmiausia reikia užkrauti duomenis. Duomenų katalogas yra iš anksto užkoduotas 
+programoje, todėl iš naujo jo įvedinėti nereikia. Paspaudžiame mygtuką įkelti failus. Nepaspaudus jo, 
+programa negalės veikti korektiškai. Tada, jeigu norima, galima pasižiūrėti ar duomenys buvo įkelti 
+korektiškai paspaudus mygtukus rodyti klientus arba rodyti serverius. Apačioje yra sukuriama lentelė, 
+kurioje atvaizduojami klientų arba serverių duomenys. Kai yra įkelti abu failai, tada galima priskirti 
+duomenis atsiverčiančiame į apačia sąrašui paspaudus mygtuką. Priskyrus duomenis, galime pasirinkti 
+pagal ką norime filtruoti. Pasirinkę pagal ką filtruosime informacija paspaudžiame mygtuką filtruoti ir 
+apačioje atsiranda lentelė, kurioje atsiranda rikiuotas sąrašas pagal kliento pateiktą parametrą atrinktų
+klientų. Sąrašas yra surikiuotas pagal kliento IP adresą ir kreipimosi laiką.
+
+
